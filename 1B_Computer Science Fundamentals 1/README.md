@@ -1,5 +1,5 @@
 # Computer Science Fundamentals 1 (C Language)
-First year of Bachelor's Degree in Computer Engineering at the University of Bologna (2018/2019)
+First year of Bachelor's Degree in Computer Engineering at University of Bologna (2018/2019)
 
 ## Module 1
 Topics for the first module (theory):
@@ -20,7 +20,8 @@ Topics for the first module (theory):
 - Recursion in Algorithms
 - Functions and Recursion
 - Procedures
-- Parameters + Error Handling
+- Parameters 
+- Error Handling
 - Projects with Multiple Files
 - Bisection Method
 - Arrays and Strings
@@ -48,8 +49,11 @@ Topics for the second module (practice):
 - Intro to IDE
 - Simple Types IO Expressions
 - IF Loops
-- Functions / Recursive Functions / Header
-- Function Parameters Reference / Error Handling
+- Functions
+- Recursive Functions 
+- Headers
+- Function Parameters Reference 
+- Error Handling
 - Arrays
 - Array Functions
 - Strings Structures

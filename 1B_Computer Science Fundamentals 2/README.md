@@ -1,5 +1,5 @@
 # Computer Science Fundamentals 2 (Java/C# Language)
-First year of Bachelor's Degree in Computer Engineering at the University of Bologna (2018/2019)
+First year of Bachelor's Degree in Computer Engineering at University of Bologna (2018/2019)
 
 - Introduction
 - Language and Platform
@@ -21,8 +21,7 @@ First year of Bachelor's Degree in Computer Engineering at the University of Bol
 - Java Collection Framework
 - Exceptions
 - Lambda Expressions
-- IO Package Part 1
-- IO Package Part 2
+- IO Package
 - Graphics
 - Variance and Wildcards
 - Trees
