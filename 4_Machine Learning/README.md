@@ -1,0 +1,117 @@
+# Machine Learning
+First year of Master's Degree in Computer Science and Engineering at Politecnico di Milano (2021/2022) 
+[EIT Digital Data Science double Master's Degree] (https://masterschool.eitdigital.eu/data-science)
+
+- Introduction
+    - Overview of Machine Learning
+    - Learning Paradigms (Supervised, Unsupervised, and Reinforcement Learning)
+- Supervised Learning
+    - Overview of Supervised Learning
+    - Elements of Supervised Learning (Representation, Evaluation, and Optimization)
+    - Taxonomy of Supervised Learning
+- Linear Regression
+    - Problem Definition
+    - Linear models and basis functions
+    - Ordinary Least Squares
+    - Least Mean Square update
+    - Geometric interpretation of Ordinary Least Squares
+    - The overfitting problem
+    - Regularization: Ridge regression and Lasso
+    - Maximum Likelihood and comparison with ordinary least squares
+    - Bayesian Linear Regression: overview, maximum a-posteriori, relationship with maximum likelihood and with regularization, predictive distribution
+- Classification
+    - Definition of Problems and Approaches (discriminant function, probabilistic discriminative, probabilistic generative)
+    - Generalized Linear Models
+    - Label Encoding
+    - Discriminant Function: 2-class and multi-class
+    - Linear Basis Function Models
+    - Least Squares for Classification
+    - Perceptron
+    - Logistic Regression: maximum likelihood for binary classification
+    - Multi-class Logistic Regression
+    - Logistic Regression vs Perceptron Algorithm
+- Model Evaluation, Selection and Ensembles
+    - Bias-Variance Decomposition
+    - Training Error vs Test Error
+    - Validation
+    - Cross-Validation: Leave-One-Out Cross Validation and K-Fold Cross Validation
+    - Complexity-Adjusted Model Evaluation
+    - No Free Lunch Theorems
+    - Curse of Dimensionality
+    - Feature Selection: Filter (Backward and Forward Selection), Embedded, and Wrapper
+    - Dimensionality Reduction: Principal Component Analysis
+    - Bagging
+    - Boosting: AdaBoost
+    - Comparison of Bagging and Boosting
+- Computational Learning Theory
+    - Overview and Definitions
+    - Version Space
+    - Bounds for Consistent Learners
+    - PAC-Learning
+    - Bounds for Agnostic Learners
+    - VC Dimension: definition and VC bounds
+- Kernel Methods
+    - Kernel: definition, meaning, and properties
+    - Kernel Trick
+    - Kernel Ridge Regression: Dual Representation, Gram Matrix, Prediction Function, Dual vs Original Representation
+    - Design of Kernels: Direct Method and Mercer Theorem
+    - Popular Kernels: Polynomial, Gaussian, Symbolic, Generative
+    - Kernel Regression: method and interpretation
+    - Gaussian Process (GP) for regression
+    - GP prediction
+    - GP parameters estimation
+- Support Vector Machines
+    - Definition of Sparse Kernel Machines
+    - Maximum Margin Classifier
+    - Dual Problem
+    - Support Vectors
+    - Soft-Margin Classifier: Dual Representation
+    - SMO
+    - Multi-Class SVM
+- Markov Decision Process
+    - Sequential Decision Making
+    - Agent-Environment Interface
+    - Finite Markov Decision Process
+    - Return in Episodic Tasks
+    - Return in Continuing Tasks (discount)
+    - The reward hypothesis
+    - Policy (deterministic/stochastic, markovian/not-markovian)
+    - Value Functions Definition
+    - Bellman Expectation Equations
+    - Optimal Policy in MDP
+    - Optimal Value Functions
+    - Bellman Optimality Equations
+- Dynamic Programming
+    - Iterative Policy Evaluation
+    - Policy Improvement Theorem
+    - Policy Iteration
+    - Generalized Policy Iteration
+    - Value Iteration
+- Monte Carlo Methods
+    - Sampling methods (pro and cons)
+    - First-Visit an Every-Visit Monte Carlo policy evaluation
+    - Monte Carlo for policy iteration
+    - Exploration
+    - Monte Carlo Policy Iteration with Exploring Starts
+    - epsilon-Greedy Exploration
+    - epsilon-soft Monte Carlo Policy Iteration
+    - epsilon-Greedy Policy Improvement Theorem
+    - On-Policy vs Off-Policy Learning (overview, target and behaviour policy)
+    - Importance Sampling
+    - Off-Policy Every-visit Policy Evaluation
+    - Off-Policy MC Control
+- Temporal-Difference Learning
+    - TD(0) update
+    - TD(0) Policy Evaluation
+    - MC vs TD (pro and cons, Bias-Variance, Sampling and Bootstrapping)
+    - Eligibility Traces
+    - SARSA
+    - Q-Learning
+- Multi-Armed Bandits
+    - Exploration-Exploitation Dilemma
+    - Stochastic MAB Setting
+    - UCB1
+    - Thompson Sampling
+    - Adversarial MAB Setting
+    - EXP3
+    - Other type of MABs

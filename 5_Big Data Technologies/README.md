@@ -1,0 +1,55 @@
+# Big Data Technologies 
+Second year of Master's Degree in Computer Science at Université Côte d'Azur (2022/2023) 
+[EIT Digital Data Science double Master's Degree] (https://masterschool.eitdigital.eu/data-science)
+
+- SCALA:
+    - Getting Started with Scala 
+    - Collections 
+    - Getting Functional 
+    - Classes and Objects and Traits 
+    - Pattern Matching 
+    - Input/Output 
+- HDFS:
+    - HDFS Daemons 
+    - Files and Blocks 
+    - Architecture 
+    - HDFS in Hadoop 3.0
+- MapReduce - YARN:
+    - Basic definitions
+    - YARN
+    - YARN and MapReduce
+    - Hadoop 3
+- Spark:
+    - Spark Core 
+    - Resilient Distributed Dataset (RDD) 
+    - Programming Model 
+    - Transformations
+    - Actions 
+    - Task Scheduling
+    - Persistence 
+    - Shared Variables
+- NoSQL:
+    - CAP Theorem 
+    - NoSQL Solutions 
+        - Key Value Pair System 
+        - Document-based System 
+        - Column-based System 
+        - Graph Database System 
+    - HBASE (Column-based system)
+        - HBase Data Model 
+        - HBase Architecture
+- SQL with Hadoop and Spark:
+    - Hive Basic definitions 
+    - Hive Basic commands 
+    - Hive Loading Data 
+    - Hive Partioning 
+    - Hive Bucketing 
+    - Hive Conclusion 
+    - SparkSQL Concepts
+    - Catalyst
+- Advanced Analytics:
+    - Historical Perspective 
+    - Data Lake
+    - Analytics 
+    - Advanced Analytics 
+    - MLlib
